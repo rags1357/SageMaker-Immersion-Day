@@ -6,9 +6,13 @@ The SageMaker Immersion daty content covers -
   - RealTime Inference
       - Model Data Quality monitor
       - Model Quality monitor
+   - Advanced Real Time Options 
+      - Multi Model Endpoint
+      - Multi Container Endpoint 
+      - Serial Inference Pipeline 
       
   - Batch Transform
   - Async Inference
   - Serverless Inference
-  - Advanced Inference Options( Coming soon..)
+  
   - SageMaker Inference Recommender
